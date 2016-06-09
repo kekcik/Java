@@ -39,7 +39,7 @@ public class PubicsCube {
         cub[x + 2][y + 2] = newLine[4];
         cub[x + 2][y + 1] = newLine[5];
         cub[x + 2][y + 0] = newLine[6];
-         cub[x + 1][y + 0] = newLine[7];
+        cub[x + 1][y + 0] = newLine[7];
     }
 
     public void makeMove() {
